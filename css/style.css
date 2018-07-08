@@ -1,0 +1,12 @@
+body{
+  color: gray;
+  background-color: black;
+  font: 26px helvetica, sans-serif;
+}
+section{
+  text-align: center;
+  padding: 11%;
+  width: 40%;
+  margin: auto;
+  border: 8px solid white;
+}
